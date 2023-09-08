@@ -1,0 +1,81 @@
+id,sg,albumin,rbc_level,sodium_creatnine,haemoglobin,wbc_count
+320,,,,137.0;7.3,seven point nine,
+321,1.02,0.0,normal,"147.0,1.2",14.8,5.5
+322,1.015,4.0,abnormal,140.0_7.2,7.9,3.4
+323,1.025,0.0,normal,142.0;0.5,sixteen point four,6.5
+324,,,,127.0;13.4,nine point four,
+325,1.01,0.0,,140.0;2.0,nine,3.2
+326,1.015,0.0,,"139.0,11.5",14.1,5.2
+327,1.025,0.0,normal,150.0;0.8,thirteen point four,5.8
+328,,,,0.0_2.5,zero,
+329,1.015,0.0,,0.0;1.0,thirteen point six,4.7
+330,1.025,0.0,normal,"146.0,1.2",sixteen point three,6.4
+331,1.02,0.0,normal,"138.0,0.5",fifteen,6.3
+332,1.02,0.0,normal,150.0;0.7,zero,
+333,1.02,0.0,normal,147.0;1.0,14.1,5.3
+334,1.025,0.0,normal,137.0;0.6,thirteen point four,
+335,1.015,1.0,normal,139.0;2.8,eleven point two,4.4
+336,1.01,1.0,normal,163.0;32.0,zero,
+337,1.025,0.0,normal,144.0;0.5,thirteen point eight,4.5
+338,1.025,0.0,normal,"135.0,0.8",fifteen,5.3
+339,1.02,0.0,normal,150.0_0.6,fourteen point two,5.0
+340,1.025,0.0,normal,150.0;1.0,seventeen,5.0
+341,1.02,2.0,abnormal,"138.0,4.6",ten point five,4.3
+342,1.02,0.0,normal,138.0;0.7,13.7,5.8
+343,1.02,0.0,normal,145.0;0.8,fourteen point seven,6.0
+344,,,,"135.0,6.5",6.2,2.3
+345,1.025,0.0,normal,147.0_1.1,thirteen point seven,5.6
+346,1.01,4.0,normal,125.0_1.7,eight point three,3.9
+347,,,,131.0;2.5,zero,
+348,1.02,0.0,normal,135.0_1.2,thirteen point five,4.9
+349,1.01,3.0,,0.0_1.3,10.3,
+350,1.015,0.0,,137.0_0.7,fifteen point two,5.2
+351,1.02,3.0,abnormal,"132.0,4.1",twelve point five,
+352,1.01,1.0,abnormal,139.0;1.0,zero,
+353,,,,124.0_9.3,six point eight,3.0
+354,1.02,0.0,normal,"138.0,0.8",seventeen point one,5.2
+355,1.02,0.0,normal,135.0_0.9,fifteen point five,5.4
+356,,,,139.0;5.2,12.1,
+357,,,,"142.0,2.5",twelve point two,
+358,1.015,3.0,abnormal,"0.0,1.2",ten point eight,
+359,,,,"141.0,7.5",eleven,4.6
+360,1.01,1.0,abnormal,"122.0,1.3",ten point four,4.3
+361,1.015,0.0,,"140.0,1.3",thirteen point two,
+362,1.015,2.0,,"132.0,2.8",11.1,
+363,1.02,0.0,normal,146.0;0.6,sixteen point five,5.1
+364,,,,"0.0,6.4",6.6,
+365,1.015,4.0,normal,136.0;5.3,eleven point four,4.3
+366,1.02,0.0,normal,139.0;1.2,sixteen point two,5.4
+367,1.02,0.0,,0.0_nan,zero,
+368,1.02,0.0,normal,141.0;0.7,14.4,
+369,1.02,0.0,,"146.0,0.6",14.8,5.9
+370,1.015,0.0,,136.0_4.0,twelve,4.5
+371,1.025,0.0,normal,"135.0,1.0",14.2,5.9
+372,1.01,3.0,normal,135.0_15.0,7.1,2.1
+373,1.02,0.0,normal,140.0;1.2,14.0,6.5
+374,1.025,0.0,normal,146.0_0.9,thirteen point nine,4.8
+375,1.02,0.0,normal,139.0_1.2,sixteen point five,4.6
+376,,,,"0.0,1.8",0.0,
+377,1.025,0.0,normal,142.0_1.1,fifteen point six,6.3
+378,1.015,3.0,,133.0_3.3,11.3,3.6
+379,1.01,1.0,abnormal,138.0_1.7,12.6,4.1
+380,1.005,4.0,abnormal,132.0;8.5,10.3,4.0
+381,,,,"136.0,2.0",nine point one,
+382,1.02,0.0,normal,"150.0,1.2",fifteen point seven,6.2
+383,1.02,0.0,normal,150.0_0.6,13.6,4.5
+384,1.01,3.0,normal,"114.0,12.0",nine point six,3.8
+385,1.025,0.0,normal,135.0_1.2,15.9,5.1
+386,1.01,0.0,,0.0_0.7,0.0,
+387,,,,0.0_1.9,eleven point seven,
+388,1.02,4.0,,0.0;0.8,11.3,
+389,1.025,0.0,normal,"147.0,0.9",sixteen point nine,5.0
+390,1.015,1.0,abnormal,135.0;18.0,zero,
+391,1.025,0.0,normal,147.0;0.7,13.5,4.5
+392,1.015,1.0,abnormal,0.0_nan,0.0,
+393,1.025,0.0,normal,144.0_0.5,17.1,6.1
+394,1.015,2.0,,"0.0,3.3",zero,
+395,1.02,2.0,abnormal,139.0;2.7,9.8,
+396,1.015,0.0,,"137.0,0.8",14.3,5.4
+397,1.01,1.0,abnormal,134.0_10.8,seven point nine,3.1
+398,1.02,0.0,normal,140.0;0.7,fourteen point four,4.5
+399,1.02,0.0,normal,"136.0,0.5",thirteen point three,4.9
